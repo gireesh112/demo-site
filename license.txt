@@ -1,2 +1,2 @@
-this is apache 2.0
+this is apache 3.0
 It's a opensource project
